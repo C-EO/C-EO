@@ -7,8 +7,8 @@
 
 ## My Stats
 
-![C-EO's GitHub stats](https://github-readme-stats.vercel.app/api?username=C-EO&show_icons=true&theme=highcontrast)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=C-EO)
+![C-EO's GitHub stats](https://github-readme-stats.vercel.app/api?username=C-EO&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=C-EO&show_icons=true&theme=dark)
 
 <!---
 C-EO/C-EO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
