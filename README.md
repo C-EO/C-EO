@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Dennis
 - 👀 I’m interested in coding, gaming and next level apps
 - 💞️ I’m looking to collaborate on creating apps and more
-- 📈 Built [AppPlay](https://github.com/C-EO/AppPlay), contributed to the [Chromium](https://github.com/chromium/chromium) open source project and more on GitHub
+- 📈 Built [Nitely](https://github.com/C-EO/nitely), contributed to the [Chromium](https://github.com/chromium/chromium) open source project and more on GitHub
 - ❤️ I love writing [Shell](https://www.gnu.org/software/bash/), [Javascript](https://www.javascript.com/), [Node.JS](node.js.org) and building fun experiments
 - 💬 Ask me about AppPlay and other projects [here](https://github.com/C-EO/C-EO/issues/new/choose)
 
@@ -19,8 +19,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 ### Top Repositories
-<a href="https://github.com/C-EO/AppPlay">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=C-EO&repo=AppPlay&theme=dark" />
+<a href="https://github.com/C-EO/nitely">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=C-EO&repo=nitely&theme=dark" />
 </a>
 
 <br />
