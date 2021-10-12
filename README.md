@@ -8,8 +8,8 @@
 - 💬 Ask me about Nitely and other projects [here](https://github.com/C-EO/C-EO/issues/new/choose)
 
 # My Stats
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=C-EO&show_icons=true&include_all_commits=true&theme=dark" alt="C-EO's Github Stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C-EO&layout=compact&theme=dark&langs_count=5" /></a> |
-| ------------- | ------------- |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=C-EO&show_icons=true&include_all_commits=true&theme=dark" alt="C-EO's Github Stats" /></a> | <a href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=C-EO&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="C-EO's Streak Stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C-EO&layout=compact&theme=dark&langs_count=5" /></a> |
+| ------------- | ------------- | ------------- |
 
 ### Languages and Tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
