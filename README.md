@@ -19,8 +19,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 ### Top Repositories
-<a href="https://git.io/JifqI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=C-EO&repo=nitely&theme=dark" />
+<a href="https://github.com/Nitely-Developers/nitely">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nitely-Developers&repo=nitely&theme=dark" />
 </a>
 
 <br />
