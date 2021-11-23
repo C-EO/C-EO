@@ -4,7 +4,7 @@
 - 👀 I’m interested in coding, gaming and next level apps
 - 💞️ I’m looking to collaborate on creating apps and more
 - 📈 Built [Nitely](https://github.com/nitely-developers/nitely) (based on [Pi-Apps](https://github.com/botspot/pi-apps)), contributed to the [Chromium](https://github.com/chromium/chromium) open source project and more on GitHub
-- ❤️ I love writing [Shell](https://www.gnu.org/software/bash/), [Javascript](https://www.javascript.com/), [Node.JS](node.js.org) and building fun experiments
+- ❤️ I love writing [Shell](https://www.gnu.org/software/bash/), [Javascript](https://www.javascript.com/), [Node.JS](nodejs.org) and building fun experiments
 - 💬 Ask me about Nitely and other projects [here](https://github.com/C-EO/C-EO/issues/new/choose)
 
 # My Stats
