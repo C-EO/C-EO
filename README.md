@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Dennis
 - 👀 I’m interested in coding, gaming and next level apps
 - 💞️ I’m looking to collaborate on creating apps and more
-- 📈 Built [Nitely](https://github.com/nitely-developers/nitely) (based on [Pi-Apps](https://github.com/botspot/pi-apps)), contributed to the [Chromium](https://github.com/chromium/chromium) open source project and more on GitHub
+- 📈 Built [Nitely](https://github.com/nitely-inc/nitely) (based on [Pi-Apps](https://github.com/botspot/pi-apps)), contributed to the [Chromium](https://github.com/chromium/chromium) open source project and more on GitHub
 - ❤️ I love writing [Shell](https://www.gnu.org/software/bash/), [Javascript](https://www.javascript.com/), [Node.JS](nodejs.org) and building fun experiments
 - 💬 Ask me about Nitely and other projects [here](https://github.com/C-EO/C-EO/issues/new/choose)
 
@@ -19,7 +19,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 ### Top Repositories
-<a href="https://github.com/Nitely-Developers/nitely">
+<a href="https://github.com/nitely-inc/nitely">
   <img align="center" src="https://gh-readme-stats.vercel.app/api/pin/?username=Nitely-Developers&repo=nitely&theme=dark" />
 </a>
 
