@@ -5,7 +5,8 @@
 - 💞️ I’m looking to collaborate on creating apps and more
 - 📈 Contributed to the [Chromium](https://github.com/chromium/chromium), [Gitea](https://github.com/go-gitea/gitea), [Nextra](https://github.com/shuding/nextra) open source project and more on GitHub
 - ❤️ I love writing [Shell](https://www.gnu.org/software/bash/), [Javascript](https://www.javascript.com/), [Node.JS](nodejs.org) and building fun experiments
-- 💬 Ask me about Nitehub and other projects [here](https://github.com/C-EO/C-EO/issues/new/choose)
+- 💬 Ask me about my projects [here](https://github.com/C-EO/C-EO/issues/new/choose)
+- 🌐 Visit me portfolio at [https://c-eo.github.io](https://c-eo.github.io) (Still unfinished, and being phased out for a new Next.js website)
 
 # My Stats
 | <a href="https://github.com/c-eo/github-readme-stats"><img align="center" src="https://gh-readme-stats.vercel.app/api?username=C-EO&show_icons=true&include_all_commits=true&theme=dark" alt="C-EO's Github Stats" /></a> | <a href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=C-EO&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="C-EO's Streak Stats" /></a> | <a href="https://github.com/c-eo/github-readme-stats"><img align="center" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=C-EO&layout=compact&theme=dark&langs_count=8" /></a> |
@@ -19,7 +20,7 @@
 
 ### Top Repositories
 <a href="https://github.com/nitely-inc/nitely">
-  <img align="center" src="https://gh-readme-stats.vercel.app/api/pin/?username=nitely-inc&repo=nitely&theme=dark" />
+  <img align="center" src="https://gh-readme-stats.vercel.app/api/pin/?username=shuding&repo=nextra&theme=dark" />
 </a>
 
 <br />
