@@ -26,8 +26,8 @@
 <br />
 <br />
 
-<a href="https://twitter.com/nitely_app">
-  <img align="right" alt="Dennis Sebalemba | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+<a href="https://twitter.com/playdiplomatica">
+  <img align="right" alt="Diplomatica | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 <a href="https://codesandbox.io/u/C-EO">
   <img align="right" alt="Dennis Sebalemba | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
